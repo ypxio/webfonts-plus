@@ -1,4 +1,4 @@
-# Google Fonts Plus
+# Google Fonts Plus😍
 Discover more font weight that is not provided by [Google Fonts](http://google.com/fonts). For example, [Monserrat](https://www.google.com/fonts/specimen/Montserrat) on [Google Fonts](http://google.com/fonts) only provide 2 styles of weight, 400 and 700. This is not very cool!
 
 # How to use
@@ -21,6 +21,7 @@ Add this line to the top of your styles or base css files:
 ```
 @import url(http://yuripertamax.github.io/google-webfonts-plus/src/css/montserrat.css);
 ```
+
 And then your complete weight of Montserrat font are ready to use!
 ```
 font-family: "Montserrat", sans-serif;
