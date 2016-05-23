@@ -13,7 +13,7 @@ just include this to your styles or css
 2. _coming soon_ (you can request by create issue to this repo 😊)
 
 
-### Montserrat
+### 1. Montserrat
 
 Montserrat from Hairline to Black will be provided with weight range from 100 to 800
 
