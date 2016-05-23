@@ -10,12 +10,19 @@ just include this to your styles or css
 
 # Fonts Lists
 1. [Montserrat](#montserrat)
-2. _coming soon_
+2. _coming soon_ (you can request by create issue to this repo 😊)
 
 
 ### Montserrat
 
 Montserrat from Hairline to Black will be provided with weight range from 100 to 800
+
+Add this line to the top of your styles or base css files:
 ```
-@import url(http://yuripertamax.github.io/google-webfonts-plus/src/css/font-name.css);
+@import url(http://yuripertamax.github.io/google-webfonts-plus/src/css/montserrat.css);
+```
+And then your complete weight of Montserrat font are ready to use!
+```
+font-family: "Montserrat", sans-serif;
+font-weight: 100;
 ```
