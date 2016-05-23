@@ -1,5 +1,5 @@
 # Google Fonts Plus
-Discover more font weight that is not provided by Google Fonts
+Discover more font weight that is not provided by [Google Fonts](http://google.com/fonts). For example, Monserrat font on [Google Fonts](http://google.com/fonts) only provide weight 400 and 700.
 
 # How to use
 just include this to your styles or css
@@ -26,3 +26,6 @@ And then your complete weight of Montserrat font are ready to use!
 font-family: "Montserrat", sans-serif;
 font-weight: 100;
 ```
+
+# License
+MIT
