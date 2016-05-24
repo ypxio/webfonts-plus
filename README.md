@@ -1,5 +1,5 @@
-# Google Fonts Plus😍
-Discover more font weight that is not provided by [Google Fonts](http://google.com/fonts). For example, [Monserrat](https://www.google.com/fonts/specimen/Montserrat) on [Google Fonts](http://google.com/fonts) only provide 2 styles of weight, 400 and 700. This is not very cool!
+# Webfonts Plus😍
+Discover more font weight that is not provided by common webfonts provider such as [Google Fonts](http://google.com/fonts). For example, [Monserrat](https://www.google.com/fonts/specimen/Montserrat) on [Google Fonts](http://google.com/fonts) only provide 2 styles of weight, 400 and 700. This is not very cool!
 
 # How to use
 just include this to your styles or css
