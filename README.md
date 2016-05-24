@@ -10,6 +10,7 @@ just include this to your styles or css
 
 # Fonts Lists
 1. [Montserrat](#montserrat)
+2. [Olivier](#olivier)
 2. _coming soon_ (you can request by create issue to this repo 😊)
 
 
@@ -26,6 +27,21 @@ And then your complete weight of Montserrat font are ready to use!
 ```
 font-family: "Montserrat", sans-serif;
 font-weight: 100;
+```
+
+### 2. Olivier
+
+__note: Apologize me because only just one weight for Olivier font, only 400 available__
+
+Add this line to the top of your styles or base css files:
+```
+@import url(http://yuripertamax.github.io/google-webfonts-plus/src/css/olivier.css);
+```
+
+And then your complete weight of Montserrat font are ready to use!
+```
+font-family: "Olivier", sans-serif;
+font-weight: 400;
 ```
 
 # License
