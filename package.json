@@ -1,0 +1,26 @@
+{
+  "name": "google-webfonts-plus",
+  "version": "0.0.1",
+  "description": "Discover more font weight that is not provided by Google Web Fonts",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuripertamax/google-webfonts-plus.git"
+  },
+  "keywords": [
+    "google",
+    "webfonts"
+  ],
+  "author": "Yuri Pratama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuripertamax/google-webfonts-plus/issues"
+  },
+  "homepage": "https://github.com/yuripertamax/google-webfonts-plus#readme"
+}
