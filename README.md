@@ -5,7 +5,7 @@ Discover more font weight that is not provided by common webfonts provider such 
 just include this to your styles or css
 
 ```
-@import url(http://yuripertamax.github.io/google-fonts-plus/src/css/font-name.css);
+@import url(http://webfonts-plus.herokuapp.com/src/css/font-name.css);
 ```
 
 # Fonts Lists
@@ -21,7 +21,7 @@ Montserrat from Hairline to Black will be provided with weight range from 100 to
 
 Add this line to the top of your styles or base css files:
 ```
-@import url(http://yuripertamax.github.io/google-webfonts-plus/src/css/montserrat.css);
+@import url(http://webfonts-plus.herokuapp.com/src/css/montserrat.css);
 ```
 
 And then your complete weight of Montserrat font are ready to use!
@@ -36,7 +36,7 @@ __note: Apologize me because only just one weight for Olivier font, only 400 ava
 
 Add this line to the top of your styles or base css files:
 ```
-@import url(http://yuripertamax.github.io/google-webfonts-plus/src/css/olivier.css);
+@import url(http://webfonts-plus.herokuapp.com/src/css/olivier.css);
 ```
 
 And then your complete weight of Olivier font are ready to use!
@@ -51,7 +51,7 @@ __note: Apologize me because only just one weight for SignPainter font, only 400
 
 Add this line to the top of your styles or base css files:
 ```
-@import url(http://yuripertamax.github.io/google-webfonts-plus/src/css/olivier.css);
+@import url(http://webfonts-plus.herokuapp.com/src/css/olivier.css);
 ```
 
 And then your complete weight of SignPainter font are ready to use!
