@@ -28,6 +28,8 @@ foreach($directories as $dir) {
     font-weight: <?php echo $font_weight ?>;
     <?php if($font_style) : ?>
     font-style: <?php echo $font_style ?>;
+    <?php else : ?>
+    font-style: normal;
     <?php endif; ?>
     src: url('<?php echo BASE_FONTS_DIR ?>/<?php echo $font_name ?>/<?php echo $file ?>') format('<?php echo $font_format ?>');
 }
