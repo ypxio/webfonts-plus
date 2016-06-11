@@ -74,28 +74,31 @@ font-style: normal
 
 ### 3. Sign Painter
 
-__note: Apologize me because only just one weight for SignPainter font, only 400 available__
+![Olivier](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/SignPainter/SignPainter-Preview.jpg)
+
+Available weight and styles:
+
+| `font-weight` | `font-style`           |
+| ------------- | ---------------------- |
+| 400           | `normal`               |
 
 Add this line to the top of your styles or base css files:
+
 ```
-@import url(http://webfonts-plus.herokuapp.com/src/css/signpainter.css);
+@import url(http://webfonts-plus.herokuapp.com?family=SignPainter);
 ```
 
-And then your complete weight of SignPainter font are ready to use!
+And then your `SignPainter` font are ready to use for your website!
+
 ```
 font-family: "SignPainter", sans-serif;
 font-weight: 400;
+font-style: normal
 ```
 
 ### 4. Graphik
 
-| Weight | CSS Properties                             |
-| ------ | ------------------------------------------ |
-| 100    | `font-weight: 100`<br>`font-style: normal` |
-| 100italic    | `font-weight: 100`<br>`font-style: italic` |
-| 100    | `font-weight: 100`<br>`font-style: normal` |
-| 100    | `font-weight: 100`<br>`font-style: normal` |
-| 100    | `font-weight: 100`<br>`font-style: normal` |
+soon.
 
 
 # License
