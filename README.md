@@ -51,7 +51,7 @@ __note: Apologize me because only just one weight for SignPainter font, only 400
 
 Add this line to the top of your styles or base css files:
 ```
-@import url(http://webfonts-plus.herokuapp.com/src/css/olivier.css);
+@import url(http://webfonts-plus.herokuapp.com/src/css/signpainter.css);
 ```
 
 And then your complete weight of SignPainter font are ready to use!

@@ -1,8 +1,9 @@
-@import url(../src/css/montserrat.css);
+@import url(http://localhost:5000?family=Montserrat);
 
 * {
     font-family: "Montserrat", sans-serif;
 }
 h1 {
-    font-weight: 800;
+    font-weight: 500;
+    /*font-size: 13px;*/
 }
