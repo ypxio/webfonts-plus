@@ -2,8 +2,8 @@
 header('Access-Control-Allow-Origin: *');
 header("Content-type: text/css");
 
-
 CONST BASE_FONTS_DIR = 'fonts';
+
 $family = $_GET['family'];
 $filter = array('.', '..', '.DS_Store');
 $directories = array_diff(scandir(BASE_FONTS_DIR), $filter);
