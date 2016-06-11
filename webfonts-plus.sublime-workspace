@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"impot",
+				"important"
+			],
+			[
+				"base64_",
+				"base64_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/css/montserrat.css",
+			"settings":
+			{
+				"buffer_size": 1367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/graphik.css",
+			"settings":
+			{
+				"buffer_size": 2017,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 141.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag.sublime-project",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/assets/css/cover.css",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/assets/css/konsalta-style.css",
+		"/Users/yuripertamax/Repositories/Community/FrontendMalang/Ongischool/ongischool-frontend-course/master/course-5/src/slides.md",
+		"/Users/yuripertamax/Repositories/Community/FrontendMalang/Ongischool/ongischool-frontend-course/master/course-5/src/css/style.css",
+		"/Users/yuripertamax/Repositories/Community/FrontendMalang/Ongischool/ongischool-frontend-course/gh-pages/batch-1/course-4/index.html",
+		"/Users/yuripertamax/Repositories/Community/FrontendMalang/Ongischool/ongischool-frontend-course/batch-1/course-4/index.html",
+		"/Users/yuripertamax/Repositories/Community/FrontendMalang/Ongischool/ongischool-frontend-course/batch-1/course-4/css/style.css",
+		"/Users/yuripertamax/Repositories/Community/FrontendMalang/Ongischool/ongischool-presentation-template/src/css/style.css",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/home/pendaftaran-ikm.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/home/welcome.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/templates/home.php",
+		"/Users/yuripertamax/Library/Application Support/Sublime Text 2/Packages/Theme - Spacegray/Spacegray Eighties.sublime-theme",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/composer.json",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/templates/coming-soon.php",
+		"/Users/yuripertamax/Repositories/Community/FrontendMalang/ongischool-presentation-template/src/slides.md",
+		"/Users/yuripertamax/Repositories/Community/FrontendMalang/ongischool-presentation-template/src/css/style.css",
+		"/Users/yuripertamax/.zshrc",
+		"/Users/yuripertamax/.bash_profile",
+		"/Users/yuripertamax/Repositories/VM/scotch-box/Vagrantfile",
+		"/Users/yuripertamax/Repositories/Github/webfonts-plus/README.md",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/composer.json",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/home/hero.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/snippets/coming-soon/footer.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/snippets/coming-soon/header.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/snippets/header.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/assets/css/main.css",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/index.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/templates/home.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/config/config.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/templates/default.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/blueprints/coming-soon.yml",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/informasi/module-detail-kegiatan.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/assets/css/disperindag-style.css",
+		"/Users/yuripertamax/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/ComingSoon/index.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/informasi/kegiatan-register-modal.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/informasi/detail-informasi-sidebar.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/informasi/module-kegiatan-terkait.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/templates/kegiatan.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/footer.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/header.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/site-kirby/site/snippets/footer.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/informasi/detail-kegiatan-sidebar.php",
+		"/Users/yuripertamax/Repositories/VM/scotch-box/.vagrant/machines/default/virtualbox/private_key.old",
+		"/Users/yuripertamax/Repositories/VM/scotch-box/.vagrant/machines/default/virtualbox/private_key",
+		"/Users/yuripertamax/Repositories/VM/puphpet/Vagrantfile",
+		"/Users/yuripertamax/Repositories/VM/puphpet/puphpet/config.yaml",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/home/kegiatan.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/templates/berita.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/snippets/home/berita.php",
+		"/Users/yuripertamax/Repositories/Works/Konsalta/Site/wp-config.php",
+		"/Users/yuripertamax/Repositories/index.php",
+		"/Users/yuripertamax/Repositories/Works/Disperindag/disperindag/site/config/config.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"btn",
+			"module",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/css/montserrat.css",
+					"settings":
+					{
+						"buffer_size": 1367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/css/graphik.css",
+					"settings":
+					{
+						"buffer_size": 2017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/yuripertamax/Repositories/sublime.project/disperindag.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true
+}
