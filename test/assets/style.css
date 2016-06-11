@@ -1,0 +1,21 @@
+.site-wrapper {
+    box-shadow: none;
+}
+
+.masthead h3 {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.inner img {
+    width: 20%;
+}
+
+.site-wrapper {
+    background: url(bg.jpg);
+    background-size: 100%;
+}
+.site-wrapper-inner {
+    background: rgba(0,0,0,0.5);
+}
