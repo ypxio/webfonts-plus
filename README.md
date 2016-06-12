@@ -11,17 +11,19 @@ just include this to the top of your styles or css files
 just replace the `FontName` to one of fonts listed below
 
 # Fonts Lists
-1. [Montserrat](#montserrat)
-2. [Olivier](#olivier)
-3. [SignPainter](#signpainter)
-4. [Graphik](#graphik)
-5. [National](#national)
-6. [TiemposHeadline](#timeposheadline)
-7. [TiemposText](#tiempostext)
+1. [Montserrat](#1-montserrat)
+2. [Olivier](#2-olivier)
+3. [Sign Painter](#3-sign-painter)
+4. [Graphik](#4-graphik)
+5. [National](#5-national)
+6. [Tiempos Headline](#6-timepos-headline)
+7. [Tiempos Text](#7-tiempos-text)
 8. _coming soon_ (you can request by create issue to this repo 😊)
 
 
 ### 1. Montserrat
+
+![Montserrat](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Montserrat/Montserrat-Preview.jpg)
 
 Available weight and styles:
 
@@ -52,6 +54,8 @@ font-style: normal
 
 ### 2. Olivier
 
+![Olivier](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Olivier/Olivier-Preview.jpg)
+
 Available weight and styles:
 
 | `font-weight` | `font-style`           |
@@ -74,7 +78,7 @@ font-style: normal
 
 ### 3. Sign Painter
 
-![Olivier](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/SignPainter/SignPainter-Preview.jpg)
+![SignPainter](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/SignPainter/SignPainter-Preview.jpg)
 
 Available weight and styles:
 
@@ -98,7 +102,121 @@ font-style: normal
 
 ### 4. Graphik
 
-soon.
+![Graphik](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Graphik/Graphik-Preview.jpg)
+
+Available weight and styles:
+
+| `font-weight`         	| `font-style`           |
+| ------------------------	| ---------------------- |
+| 100 _(Thin)_				| `normal`<br>`italic`   |
+| 200 _(Extralight)_			| `normal`<br>`italic`   |
+| 300 _(Light)_				| `normal`<br>`italic`   |
+| 400 _(Regular)_			| `normal`<br>`italic`   |
+| 500 _(Medium)_				| `normal`<br>`italic`   |
+| 600 _(Semibold)_ 			| `normal`<br>`italic`   |
+| 700 _(Bold)_       		| `normal`<br>`italic`   |
+| 800 _(Black)_       		| `normal`<br>`italic`   |
+| 900 _(Super)_        		| `normal`<br>`italic`   |
+
+Add this line to the top of your styles or base css files:
+
+```
+@import url(http://webfonts-plus.herokuapp.com?family=Graphik);
+```
+
+And then your `Graphik` font are ready to use for your website!
+
+```
+font-family: "Graphik", sans-serif;
+font-weight: 400;
+font-style: normal
+```
+
+### 5. National
+
+![National](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/National/National-Preview.jpg)
+
+Available weight and styles:
+
+| `font-weight`         	| `font-style`           |
+| ------------------------	| ---------------------- |
+| 300 _(Book)_				| `normal`<br>`italic`   |
+| 400 _(Regular)_			| `normal`<br>`italic`   |
+| 500 _(Medium)_				| `normal`<br>`italic`   |
+| 600 _(Semibold)_ 			| `normal`<br>`italic`   |
+| 700 _(Bold)_       		| `normal`<br>`italic`   |
+| 800 _(Extrabold)_     	| `normal`<br>`italic`   |
+
+
+Add this line to the top of your styles or base css files:
+
+```
+@import url(http://webfonts-plus.herokuapp.com?family=National);
+```
+
+And then your `National` font are ready to use for your website!
+
+```
+font-family: "National", sans-serif;
+font-weight: 400;
+font-style: normal
+```
+
+### 6. Tiempos Headline
+
+![TiemposHeadline](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/TiemposHeadline/TiemposHeadline-Preview.jpg)
+
+Available weight and styles:
+
+| `font-weight`         	| `font-style`           |
+| ------------------------	| ---------------------- |
+| 300 _(Light)_				| `normal`<br>`italic`   |
+| 400 _(Regular)_			| `normal`<br>`italic`   |
+| 500 _(Medium)_				| `normal`<br>`italic`   |
+| 600 _(Semibold)_ 			| `normal`<br>`italic`   |
+| 700 _(Bold)_       		| `normal`<br>`italic`   |
+| 800 _(Black)_     			| `normal`<br>`italic`   |
+
+Add this line to the top of your styles or base css files:
+
+```
+@import url(http://webfonts-plus.herokuapp.com?family= TiemposHeadline);
+```
+
+And then your `TiemposHeadline ` font are ready to use for your website!
+
+```
+font-family: "TiemposHeadline", serif;
+font-weight: 400;
+font-style: normal
+```
+
+### 7. Tiempos Text
+
+![TimeposText](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/TiemposText/TiemposText-Preview.jpg)
+
+Available weight and styles:
+
+| `font-weight`         	| `font-style`           |
+| ------------------------	| ---------------------- |
+| 400 _(Regular)_			| `normal`<br>`italic`   |
+| 500 _(Medium)_				| `normal`<br>`italic`   |
+| 600 _(Semibold)_ 			| `normal`<br>`italic`   |
+| 700 _(Bold)_       		| `normal`<br>`italic`   |[
+
+Add this line to the top of your styles or base css files:
+
+```
+@import url(http://webfonts-plus.herokuapp.com?family=SignPainter);
+```
+
+And then your `TiemposText` font are ready to use for your website!
+
+```
+font-family: "TiemposText", sans-serif;
+font-weight: 400;
+font-style: normal
+```
 
 
 # License
