@@ -23,7 +23,7 @@ just replace the `FontName` to one of fonts listed below
 
 ### 1. Montserrat
 
-![Montserrat](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Montserrat/Montserrat-Preview.jpg)
+![Montserrat](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Montserrat/Montserrat-Preview.png)
 
 Available weight and styles:
 
@@ -54,7 +54,7 @@ font-style: normal
 
 ### 2. Olivier
 
-![Olivier](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Olivier/Olivier-Preview.jpg)
+![Olivier](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Olivier/Olivier-Preview.png)
 
 Available weight and styles:
 
@@ -78,7 +78,7 @@ font-style: normal
 
 ### 3. Sign Painter
 
-![SignPainter](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/SignPainter/SignPainter-Preview.jpg)
+![SignPainter](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/SignPainter/SignPainter-Preview.png)
 
 Available weight and styles:
 
@@ -102,7 +102,7 @@ font-style: normal
 
 ### 4. Graphik
 
-![Graphik](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Graphik/Graphik-Preview.jpg)
+![Graphik](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/Graphik/Graphik-Preview.png)
 
 Available weight and styles:
 
@@ -134,7 +134,7 @@ font-style: normal
 
 ### 5. National
 
-![National](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/National/National-Preview.jpg)
+![National](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/National/National-Preview.png)
 
 Available weight and styles:
 
@@ -164,7 +164,7 @@ font-style: normal
 
 ### 6. Tiempos Headline
 
-![TiemposHeadline](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/TiemposHeadline/TiemposHeadline-Preview.jpg)
+![TiemposHeadline](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/TiemposHeadline/TiemposHeadline-Preview.png)
 
 Available weight and styles:
 
@@ -193,7 +193,7 @@ font-style: normal
 
 ### 7. Tiempos Text
 
-![TimeposText](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/TiemposText/TiemposText-Preview.jpg)
+![TimeposText](https://raw.githubusercontent.com/yuripertamax/webfonts-plus/master/src/fonts/TiemposText/TiemposText-Preview.png)
 
 Available weight and styles:
 
