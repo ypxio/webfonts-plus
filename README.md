@@ -5,7 +5,7 @@ Discover more font weight that is not provided by common webfonts provider such 
 just include this to the top of your styles or css files
 
 ```
-@import url(http://webfonts-plus.herokuapp.com/?family=FontName);
+@import url(http://webfonts-plus.herokuapp.com/src?family=FontName);
 ```
 
 just replace the `FontName` to one of fonts listed below
